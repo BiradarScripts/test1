@@ -1,46 +1,71 @@
-#EconeXus
+# Getting Started with Create React App
 
-##overview
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
- Platforms like EconeXus embody the exciting possibilities of the virtual realm. By enabling connections based on shared interests and thoughts, they harness technology's potential to create meaningful interactions that transcend physical boundaries. As we embrace this transformation, it's imperative to address the challenges while harnessing the opportunities that the digital world offers. The journey has just begun, and with the right approach, the virtual era holds promise for enriching lives, fostering collaboration, and shaping a brighter future.
+## Available Scripts
 
+In the project directory, you can run:
 
- ##objective
-To establish a vitually connection amongst the neXus members
+### `npm start`
 
-##implementation details
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-###Home
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-The sites landing page gives an upper perspective on EconeXus  ,Framer Motion breathed life into the page by enabling animations
+### `npm test`
 
-###Profile
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-On this page you could essentially see your Name,Designation,Your Interests,and profile-pic aswell .All this information is very well embedded in a neXus-card
+### `npm run build`
 
-###Post
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The most fascinating page,you could post,view,delete and edit your thoughts aswell on this page 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-##getConnected
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-This is the place where you actually get associated with other people fostering same interests,scrolling a bit down you could even view there posts
+### `npm run eject`
 
-##challenges faced
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-1)Designing the home page with atmost measurements 
-2)Error handling (mainly focusing javascript)
-3)Making it Responsive
-4)structing the files of backend
-5)Errors during the interconnection
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-##future scope
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-1)Adding chat feature
-2)Adding the like,share and comment features
-3)community feature-
-    where a person can register to enter a community
-4)Introducing Ai 
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
